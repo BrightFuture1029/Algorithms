@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ConsoleAlgorithms/.vs/ConsoleAlgorithms/v16
+/ConsoleAlgorithms/ConsoleAlgorithms/obj
+/ConsoleAlgorithms/ConsoleAlgorithms/bin/Debug/netcoreapp3.1
